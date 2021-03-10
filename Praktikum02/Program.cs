@@ -10,6 +10,8 @@ namespace Praktikum02
     {
         static void Main(string[] args)
         {
+
+
         }
     }
 }
