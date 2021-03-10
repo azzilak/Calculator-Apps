@@ -11,7 +11,12 @@ namespace Praktikum02
         static void Main(string[] args)
         {
 
+        }
 
+        static int Penjumlahan(int x, int y) => x + y)
+        {
+            return x + y;
         }
     }
+        
 }
