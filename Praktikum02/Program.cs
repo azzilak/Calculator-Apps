@@ -13,10 +13,11 @@ namespace Praktikum02
 
         }
 
-        static int Penjumlahan(int x, int y) => x + y)
-        {
-            return x + y;
-        }
+        static int Penjumlahan(int x, int y) => x + y;
+            {return x + y;}
+
+        static int Pengurangan(int x, int y) => x - y;
+            {return x - y;}
     }
         
 }
