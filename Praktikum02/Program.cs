@@ -18,6 +18,10 @@ namespace Praktikum02
 
         static int Pengurangan(int x, int y) => x - y;
             {return x - y;}
+
+        static int Perkalian(int x, int y) => x * y;
+            { return x * y; }
+
     }
         
 }
